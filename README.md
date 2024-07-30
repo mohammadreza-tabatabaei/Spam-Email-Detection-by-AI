@@ -11,8 +11,9 @@
 
 
 
+
 # Dataset:
-I used a spambase dataset. The Spambase dataset contains 4,601 instances and 58 attributes. Each instance represents an email, with attributes that reflect various aspects of the message's content. The target variable indicates whether the email is spam (1 or 0).
+I used Spambase dataset. The Spambase dataset contains 4,601 instances and 58 attributes. Each instance represents an email, with attributes that reflect various aspects of the message's content. The target variable indicates whether the email is spam (1 or 0).
 
 # Feature Exraction Phase:
 The feature extraction stage was performed by CNN algorithm.
